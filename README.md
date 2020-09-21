@@ -2,6 +2,8 @@
 <br/>
 This fun collection of JS files, provides some tooling that i use with alot of projects.<br/>
 
+** 21.9.2020 - while some of these are no longer needed, it is still nice to have this as an archive of old practices.
+
 Some documentation for the most frequently used:<br/>
 <b>guid.js</b><br/>
 &nbsp;&nbsp;&nbsp;&nbsp;class - <strong>Guid</strong><br/>
